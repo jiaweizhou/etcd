@@ -15,6 +15,8 @@
 
 ![etcd Logo](logos/etcd-horizontal-color.png)
 
+
+
 etcd is a distributed reliable key-value store for the most critical data of a distributed system, with a focus on being:
 
 * *Simple*: well-defined, user-facing API (gRPC)
